@@ -2,8 +2,6 @@
 
 An intelligent agentic search engine powered by **Groq's Llama3-8b**, Streamlit, and multi-source search tools (DuckDuckGo, Arxiv, Wikipedia). Built with LangChain for robust AI agent orchestration.
 
-![Demo](https://via.placeholder.com/800x400?text=Streamlit+Interface+Demo) *(Replace with your demo GIF)*
-
 ## Features ✨
 - **Multi-Source Search**: Integrates 3 powerful tools:
   - 🦆 DuckDuckGo (web search)
