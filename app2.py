@@ -23,12 +23,7 @@ search = DuckDuckGoSearchRun(
 )
 
 # 2. Streamlit UI
-st.title("🔎 LangChain - Chat with search (Improved)")
-
-"""
-In this example, we instruct the agent to search only until it has 
-enough information, then provide a concise final answer.
-"""
+st.title("🔎 LangChain - Chat with Improved Search Engine Agent")
 
 st.sidebar.title("Settings")
 api_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
