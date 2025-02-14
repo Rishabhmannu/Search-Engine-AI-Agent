@@ -65,7 +65,7 @@ streamlit run app.py
 ## Deployment ☁️
 Project is Deployed at Streamlit Community Cloud:
 
-1. Go to [Streamlit Console](https://share.streamlit.io/)
+1. Go to [Streamlit Console](https://search-engine-ai-agent-mfwywkerzwtdxllpt9mhj6.streamlit.app/)
 2. Enter your Groq API Key
 3. Search your query with Intelligent AI Search-Engine
 
